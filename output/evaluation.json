@@ -1,0 +1,22 @@
+{
+    "Footwork": {
+        "score": 7,
+        "feedback": "Stable, improve step alignment."
+    },
+    "Head Position": {
+        "score": 8,
+        "feedback": "Good balance over front knee."
+    },
+    "Swing Control": {
+        "score": 6,
+        "feedback": "Wrist angle inconsistent."
+    },
+    "Balance": {
+        "score": 7,
+        "feedback": "Mostly stable, occasional lean."
+    },
+    "Follow-through": {
+        "score": 8,
+        "feedback": "Smooth completion of shot."
+    }
+}
