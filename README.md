@@ -26,7 +26,7 @@ A bonus elbow angle plot is also provided for smoothness analysis.
    ```bash
    python -m yt_dlp -o input_video.mp4 https://youtube.com/shorts/vSX3IRxGnNY
 
-5.**Run the analysis**
+5. **Run the analysis**
 ```bash
 python cover_drive_analysis.py
 ```
